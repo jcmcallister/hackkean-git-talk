@@ -32,10 +32,9 @@ THINGS TO COVER
 
 	Cheatsheets
 
-		rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
+		rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf -- now in the repo!
 
 		http://danielkummer.github.io/git-flow-cheatsheet/
-
 
 
 		a;sldkfj as;ldfj asd;lfkjas df;lkj i am cool
