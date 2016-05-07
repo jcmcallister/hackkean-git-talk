@@ -1,0 +1,37 @@
+Git talk!
+
+	hello world
+
+THINGS TO COVER
+
+	DONE -- Command line vs. Programs
+
+	Get Started!
+
+		system installation
+
+		sys config: gitignore
+
+		repo setup
+
+		commits
+
+		push
+
+	Explore
+
+		pulls
+
+		pull requests
+
+	Workflow & Purposes
+
+		merges
+
+		branches
+
+	Cheatsheets
+
+		rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
+
+		http://danielkummer.github.io/git-flow-cheatsheet/
