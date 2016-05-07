@@ -12,9 +12,9 @@ THINGS TO COVER
 
 		sys config: gitignore
 
-		repo setup
+		DONE -- repo setup
 
-		commits
+		DONE -- commits
 
 		push
 
