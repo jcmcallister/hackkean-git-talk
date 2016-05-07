@@ -16,13 +16,13 @@ THINGS TO COVER
 
 		DONE -- commits
 
-		push
+		Done -- push (wonky kind of way)
 
 	Explore
 
-		pulls
+		DONE -- pulls & clones
 
-		pull requests
+		DONE -- pull requests
 
 	Workflow & Purposes
 
