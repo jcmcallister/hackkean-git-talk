@@ -8,9 +8,9 @@ THINGS TO COVER
 
 	Get Started!
 
-		system installation
+		DONE -- system installation
 
-		sys config: gitignore
+		DONe -- sys config: gitignore
 
 		DONE -- repo setup
 
